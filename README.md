@@ -14,5 +14,3 @@
 ![](https://github.com/bahategar/Business-Decision-Research/blob/main/Figure%203.png)
 ![](https://github.com/bahategar/Business-Decision-Research/blob/main/Figure%204.png)
 ![](https://github.com/bahategar/Business-Decision-Research/blob/main/Figure%205.png)
-
-
